@@ -1,0 +1,70 @@
+end
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//DE">
+<html>
+<head>
+	<!--meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" -->
+	<style>
+		body {
+			background-color:#ffffff;
+			font-family:tahoma,verdana;
+			font-size:10px;
+		}
+	</style>
+
+	<title>Elbot the Robot by Artificial Solutions</title>
+</head>
+	<body  onload="entryfieldsetfocus();;"="" bgcolor="#FFFFFF" link="#000066" text="#000066" vlink="#000066"><script type="text/javascript">
+
+<!--
+
+function entryfieldsetfocus()
+{
+  document.forms[0].ENTRY.focus();
+}
+
+
+
+//-->
+
+</script>
+
+
+	<form action="elbot.cgi" method="POST"  onsubmit=";"="">
+	<input name="IDENT" value="foJgUIBtw3" type="Hidden">
+	<input name="USERLOGID" value="fKNCQaFu02" type="Hidden">
+	<input name="EXTRAINPUT" value="1" type="Hidden">
+	<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+    				<td></td>
+			</tr>
+			<tr>
+    				<td></td>
+    				<td><img src="/images/elbot/elbot65.gif" alt="" border="0"></td>
+			</tr>
+			<tr>
+    				<td><img src="/images/elbot/space.gif" alt="" border="0" height="180" width="1"></td>
+				<td> <!-- Begin Response !--> <!-- Country:   -->Hello, I'm Elbot. But what does it all mean? <!-- End Response !--></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><input gtbfieldid="1" name="ENTRY" value="" size="55" type="text"></td>
+			</tr>
+			<tr>
+				<td></td>
+			<td align="right"><input name="send" src="/images/elbot/button.gif" align="top" border="0" type="image"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><img src="/images/elbot/space.gif" alt="" border="0" height="15" width="1"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><font color="#000066" size="2">Powered by <b><a href="javascript:var%20fenster%20=%20window.open('http://www.artificial-solutions.com')"
+ style="text-decoration: none;">artificial-solutions.com</a></b></font></td>
+			</tr>
+		</tbody>
+	</table>
+	</form>
+</body>
+</html>
