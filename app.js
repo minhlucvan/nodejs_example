@@ -24,6 +24,6 @@ io.on("connection", function(socket){
 
 
 });
-server.listen(80, function(){
+server.listen(port, function(){
 	console.log("server is running");
 });
